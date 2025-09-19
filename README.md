@@ -4,7 +4,7 @@
 
 DocuGuard is a powerful web application designed to help individuals and organizations maintain consistency across their important documents. By leveraging the power of Google's Gemini AI, it automatically analyzes multiple text files, identifies conflicting information, and presents it in a clear, manageable interface.
 
-![DocuGuard Dashboard](https://i.imgur.com/example.png) <!-- Replace with a real screenshot of your app's dashboard or conflict inbox -->
+<!-- Replace with a real screenshot of your app's dashboard or conflict inbox -->
 
 ---
 
